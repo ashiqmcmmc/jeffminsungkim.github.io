@@ -1,0 +1,2 @@
+webpackJsonp([1],{FYR0:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var s={render:function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"content-container"},[e("h1",[this._v(this._s(this.title))])])},staticRenderFns:[]},i=n("VU/8")({data:function(){return{title:"Contact ;)"}}},s,!1,null,null,null);e.default=i.exports}});
+//# sourceMappingURL=1.ed68bf34c85556f162e0.js.map

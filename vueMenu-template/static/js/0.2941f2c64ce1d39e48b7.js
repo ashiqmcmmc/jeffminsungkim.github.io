@@ -1,0 +1,2 @@
+webpackJsonp([0],{"340P":function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var s={render:function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"content-container"},[e("h1",[this._v(this._s(this.title))])])},staticRenderFns:[]},i=n("VU/8")({data:function(){return{title:"Projects ;)"}}},s,!1,null,null,null);e.default=i.exports}});
+//# sourceMappingURL=0.2941f2c64ce1d39e48b7.js.map
